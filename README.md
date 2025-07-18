@@ -1,8 +1,12 @@
-All files, scripts, tables belong to creators. 
+# All files, scripts, tables belong to creators. 
 This repo is only translation and update for them. Please contact for details.
 
-Link to latest google sheet 2.3.2 (use only google ver, excel is fucked) 
+# Mod generation files made by 由北 (Polaris?)
+# Sheet is made by 宫苏夜璃
+links to Source files is in Source folder
 
+
+# Link to latest google sheet 2.3.2 (use only google ver, excel is fucked) 
 Sheet is working, but needs additional script formatting, guide is being cooked. 18.07
 
 read.only (copy for yourself and then edit)
