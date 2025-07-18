@@ -1,0 +1,31 @@
+Thanks to:
+@rei - most EN translation
+@D4-EH - for variables explanation, templates and initial upload of fist sheets
+@dead - for testing and ideas
+@camaeda - for patient testing
+
+2.3.2
+
+- first fixes, changes to output.
+
+Changes:
+	- Changed that variable names now coming in "" for modloader slot.json 
+
+2.3.1
+
+- init EN release, wasn't working due to formatting
+
+Changes:
+	- text to include both CN and EN text
+	- changed some formulas to accommodate dual language
+	- added handheld as full working category
+	- added Color options code generator 
+		+ hex codes for visual representation 
+		+ code accommodation 
+	- added Pattern options code generator with file naming explanation 
+		+ code accommodation 
+	- added slot.json example
+	- added latest and highlighted traits (obsolete and dolp exclusive ones)
+	- added new variables (author, pattern, shopGroup, ect.)
+	- edit's to formulas for smarter usage
+
