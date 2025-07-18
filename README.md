@@ -1,9 +1,12 @@
 # All files, scripts, tables belong to creators. 
-This repo is only translation and update for them. Please contact for details.
+This repo is only translation and update for them.
 
-# Mod generation files made by 由北 (Polaris?)
-# Sheet is made by 宫苏夜璃
+Credits:
+Mod generation files made by 由北 (Polaris?)
+Sheet is made by 宫苏夜璃
 links to Source files is in Source folder
+
+updated by @Ankwa in DolModding discord. Please contact for details. 
 
 
 # Link to latest google sheet 2.3.2 (use only google ver, excel is fucked) 
