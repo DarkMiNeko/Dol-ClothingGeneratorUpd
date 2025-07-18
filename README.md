@@ -2,7 +2,7 @@ All files, scripts, tables belong to creators.
 
 This repo is only translation and update for them. Please contact for details.
 
-Link to google sheet 2.3.1 (use only google ver, excel is fucked) 
+Link to google sheet 2.3.2? (use only google ver, excel is fucked) 
 
 Sheet is broken for formatting reasons for now. 18.07.
 
