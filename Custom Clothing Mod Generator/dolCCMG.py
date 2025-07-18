@@ -28,16 +28,16 @@ def generate_files_with_text(folder_path, file_list):
             file.write('[\n]')
 
 if not os.path.exists('clothes'):
-    type_list = ['face.json', 'feet.json', 'genitals.json', 'hands.json', 'head.json',
+    type_list = ['face.json', 'feet.json', 'genitals.json', 'hands.json','handheld.json', 'head.json',
                  'legs.json', 'neck.json', 'upper.json', 'lower.json', 'under_upper.json',
                  'under_lower.json', 'over_upper.json', 'over_lower.json', 'over_head.json']
     os.makedirs('clothes', exist_ok=True)
     generate_files_with_text('clothes', type_list)
 os.makedirs('img', exist_ok=True)
 output_dict = {}
-output_dict['name'] = input('请输入模组名称:')
-output_dict['version'] = input('请输入类似于1.0.0的模组版本号:')
-print(f'模组生成中请稍等...')
+output_dict['name'] = input('请输入模组名称 / Input Mod Name:')
+output_dict['version'] = input('请输入类似于1.0.0的模组版本号 / Please enter a module version number similar to 1.0.0:')
+print(f'模组生成中请稍等... / Please wait for a while in the module generation...')
 output_dict['styleFileList'] = []
 output_dict['scriptFileList'] = []
 output_dict['tweeFileList'] = []
@@ -66,6 +66,10 @@ output_dict['addonPlugin'] = [
           {
             "key": "hands",
             "filePath": "clothes/hands.json"
+          },
+          {
+            "key": "handheld",
+            "filePath": "clothes/handheld.json"
           },
           {
             "key": "head",
@@ -140,4 +144,4 @@ zip_name = output_dict['name'] + '.zip'
 
 zip_files_and_folders(file_paths, zip_name)
 os.remove('boot.json')
-print(f'模组生成完成: {zip_name}')
+print(f'模组生成完成 / Mod Generation is finished: {zip_name}')
