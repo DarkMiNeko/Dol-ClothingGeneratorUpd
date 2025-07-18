@@ -23,9 +23,9 @@ def list_files_and_subdirectories(directory, output_dict):
 
 os.makedirs('img', exist_ok=True)
 output_dict = {}
-output_dict['name'] = input('Please enter the module name:')
-output_dict['version'] = input('Please enter a module version number similar to 1.0.0:')
-print(f'Please wait for a while in the module generation...')
+output_dict['name'] = input('请输入模组名称 / Please enter the Mod name:')
+output_dict['version'] = input('请输入类似于1.0.0的模组版本号 / Please enter a Mod version number similar to 1.0.0:')
+print(f'模组生成中请稍等... / Please wait for a while in the module generation...')
 output_dict['styleFileList'] = []
 output_dict['scriptFileList'] = []
 output_dict['tweeFileList'] = []
@@ -59,4 +59,4 @@ zip_name = output_dict['name'] + '.zip'
 
 zip_files_and_folders(file_paths, zip_name)
 os.remove('boot.json')
-print(f'Module generation completed: {zip_name}')
+print(f'模组生成完成 / Mod generation completed: {zip_name}')
