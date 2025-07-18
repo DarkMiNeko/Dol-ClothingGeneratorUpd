@@ -2,8 +2,8 @@
 This repo is only translation and update for them.
 
 Credits:
-Mod generation files made by 由北 (Polaris?)
-Sheet is made by 宫苏夜璃
+- Mod generation files made by 由北 (Polaris?)
+- Sheet is made by 宫苏夜璃
 links to Source files is in Source folder
 
 updated by @Ankwa in DolModding discord. Please contact for details. 
