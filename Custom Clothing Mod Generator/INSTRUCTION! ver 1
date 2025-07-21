@@ -1,0 +1,15 @@
+* Full instructions (hopefully)
+
+1) download folder "Custom Clothing Mod Generator"
+2) run dolCCMG once to create folders (exe or py)
+3) go to sheet link and make copy for yourself (https://docs.google.com/spreadsheets/d/1_yd3uq0nf1mKuK3GGFb_i4Pc8Qiykc9c-KLLU8A0oAw/edit?usp=sharing)
+4) edit C column as you like/need
+5) Copy line next to "Modloader generation code"
+6) Paste code in slot.json (upper, lower, ect) don't worry about formating for now. 
+!!!! - If no python... You had to edit it by hand to look as in sheet but inside [ ]
+7) *There's python needed - run "slot-fix.py", it would fix wonky formatting of copied code
+8) add clothing img into img folder as in dol folder structure.
+9) run dolCCMG exe, but better dolCCMG.py, while it's translated and has more functions
+10) input things and TADA, there would be hopefully working archive
+
+If it won't work, send me, I would edit it by hand. Send msgs here https://discord.com/channels/675158131688603721/1382079450258346034
