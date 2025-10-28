@@ -1,0 +1,13 @@
+* Full instructions (hopefully)
+
+1) download folder "Custom Clothing Mod Generator"
+2) run dolCCMG once (only the first step) to create folders (exe or py)
+3) go to sheet link and make copy for yourself (https://docs.google.com/spreadsheets/d/1_yd3uq0nf1mKuK3GGFb_i4Pc8Qiykc9c-KLLU8A0oAw/edit?usp=sharing)
+4) edit C column as you like/need
+5) Copy line next to "Modloader generation code"
+6) Paste code in slot.json (upper, lower, ect) don't worry about formatting for now. 
+7) add clothing img into img folder as in dol folder structure.
+8) finish process in 2 step by inputing name and version
+9) You had to edit slot.json by hand to test/fix [ ] (Better DM/ping @a… with zip, I would fix it for you)
+
+If it won't work, send me, I would edit it by hand. Send msgs here https://discord.com/channels/675158131688603721/1382079450258346034
