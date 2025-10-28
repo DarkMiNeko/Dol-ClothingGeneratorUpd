@@ -1,4 +1,4 @@
-# DoL Custom Clothing Mod Auto Generator - ONLY .PY is TRANSLATED
+# DoL Custom Clothing Mod Generator (Packer)
 A beginner-friendly mod generator created by Polaris, designed to automatically create mod packages compatible with ModLoader. Supports both new clothing additions and visual/beautification mods.
 
 THANK YOU @dead for modificating the script to have explanation and fixes for sheet bugs!
@@ -41,4 +41,5 @@ How to Use:
     7.此目录下会生成.zip压缩文件，这就是做好的模组包。
 
     ps.制作新模组时，可以删除clothes文件夹，然后运行生成器可以自动创建初始json文件。
+
 
