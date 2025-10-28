@@ -14,3 +14,6 @@ Sheet is broken, needs additional script formatting, guide is being cooked. 17.1
 
 read.only (copy for yourself and then edit)
 https://docs.google.com/spreadsheets/d/1_yd3uq0nf1mKuK3GGFb_i4Pc8Qiykc9c-KLLU8A0oAw/edit?usp=sharing
+
+how to use dolCCMG 
+https://sendvid.com/kbcahixh
